@@ -1,4 +1,4 @@
-#!/Users/dev/python/unscrap/venv/bin/python3
+#!/Users/down/Develop/py/unscrap/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

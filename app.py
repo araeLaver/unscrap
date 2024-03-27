@@ -307,7 +307,8 @@ try:
 
     # 데이터를 pandas DataFrame으로 변환
     df = pd.DataFrame(employment_info['dsOutList'])
-    filename = "/Users/codef/Desktop/employment_info.xlsx"
+   
+    filename = "/Users/down/Desktop/employment_info.xlsx"
     # 엑셀 파일로 저장
     df.to_excel(filename, index=False)
 
